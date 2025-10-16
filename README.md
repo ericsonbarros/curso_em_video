@@ -1,4 +1,4 @@
-# curso_em_video
+# curso_em_video_Python
 Atividades Realizada no Aprendizado do Python 
 
 O aprendizado foi dividido em 3 mundo com cada etapa com diversas atividades para exercita e melhorar o aprendizado em python
